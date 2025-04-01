@@ -1,4 +1,4 @@
-![1000025244](https://github.com/user-attachments/assets/e26305ee-5d5f-4dc0-baa9-d7108b70ec1c)
+
 ## الفهرس
 - [الوصف](#الوصف)
 - [الرؤية](#الرؤية)
@@ -41,3 +41,4 @@
 4. إطلاق النسخة الأولية والترويج عالميًا.
 
 ---
+[1000025244](https://github.com/user-attachments/assets/e26305ee-5d5f-4dc0-baa9-d7108b
